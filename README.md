@@ -2,7 +2,7 @@
 Three method to generate the adaptive threshold of canny algorithm:<br> 
 >Method 1.OTSU<br> 
 >Method 2.By compute gradient histogram<br> 
->Method 3.By compute the Maximum gradient variance. And the "3"method is the best<br> 
+>Method 3.By compute the Maximum gradient variance.(this method is the best)<br> 
 
 ## Build Environment
 >VS2015,OpenCV3.4.1
