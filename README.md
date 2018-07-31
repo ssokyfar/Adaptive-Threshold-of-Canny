@@ -1,9 +1,12 @@
 # Adaptive-Threshold-of-Canny
-Three method to generate the adaptive threshold of canny algorithm: 1.OTSU; 2.By compute gradient histogram; 3.By compute the Maximum gradient variance. And the "3"method is the best.
+Three method to generate the adaptive threshold of canny algorithm:<br> 
+Method 1.OTSU<br> 
+Method 2.By compute gradient histogram<br> 
+Method 3.By compute the Maximum gradient variance. And the "3"method is the best<br> 
 
 ## Build Environment
->>VS2015,OpenCV3.4.1
+>VS2015,OpenCV3.4.1
 
-## The result of three method on diffent images
-### 1.用OTSU算法获得自适应阈值（效果并不好）
->>输入图像：“iphone_1.png”<br> 
+## Image Folder
+>The image we used to test code is in "input image" folder<br>
+>The three kind of result correspondence to each "input image" is in "result image" folder<br>
